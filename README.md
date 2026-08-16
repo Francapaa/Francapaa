@@ -1,1 +1,10 @@
 <h1 align="center">Hi 👋, I'm Francisco Caparruva</h1>
+I am a software engineer with end-to-end experience designing and building high performance and scalable applications
+
+
+
+## My Skills Include
+<span>
+  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
