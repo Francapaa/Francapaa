@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Francisco Caparruva</h1>
-I am a 20 y/o software engineer with end-to-end experience designing and building high performance and scalable applications
+I am a 20 y/o software engineer with end-to-end experience designing and building high performance and scalable applications. Furthermore, one of my favorites activities is competitive programming. 
 
 
 
