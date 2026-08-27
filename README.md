@@ -2,6 +2,17 @@
 I am a 20 y/o software engineer with end-to-end experience designing and building high performance and scalable applications. Furthermore, one of my favorites activities is competitive programming. 
 
 Currently, I'm working as a freelancer with a lot of different clients (more than 15)
+
+## What I've Built as a Freelance Developer
+
+- **Landing pages** — custom, responsive, conversion-focused
+- **ERP systems** — built from scratch and customized
+- **ARCA integration** — tax/invoicing compliance integrations
+- **ERP integrations** — connecting and syncing multiple ERP platforms
+- **RAG systems & AI chatbots** — for various clients, tailored to their use cases
+- **Automations** — workflow and process automation with Python, LangGraph and more tools
+- **Payments integration** — payment processing with a **0% error rate**
+- **Scalable, complex architectures** — designed for growth and reliability
 . 
 
 
