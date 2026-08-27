@@ -13,6 +13,7 @@ Currently, I'm working as a freelancer with a lot of different clients (more tha
 - **Automations** — workflow and process automation with Python, LangGraph and more tools
 - **Payments integration** — payment processing with a **0% error rate**
 - **Scalable, complex architectures** — designed for growth and reliability
+- **Deploys, testing (unit, integration and E2E) and maintenance** - for various client with critical workflows
 . 
 
 
