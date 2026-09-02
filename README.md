@@ -9,7 +9,7 @@ Currently, I'm working as a freelancer with a lot of different clients (more tha
 - **ERP systems** — built from scratch and customized
 - **ARCA integration** — tax/invoicing compliance integrations
 - **ERP integrations** — connecting and syncing multiple ERP platforms
-- **RAG systems & AI chatbots** — for various clients, tailored to their use cases
+- **RAG systems & AI Agents** — for various clients, tailored to their use cases
 - **Automations** — workflow and process automation with Python, LangGraph and more tools
 - **Payments integration** — payment processing with a **0% error rate**
 - **Scalable, complex architectures** — designed for growth and reliability
