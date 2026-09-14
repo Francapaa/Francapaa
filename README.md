@@ -28,9 +28,9 @@ Currently, I'm working as a freelancer with a lot of different clients (more tha
 </span>
 
 
-## I'm listen to 
+## I'm listening to 
 
 
 
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21fsagz3pmgmatrv4hqqg2wma&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21fsagz3pmgmatrv4hqqg2wma&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
