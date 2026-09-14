@@ -26,3 +26,7 @@ Currently, I'm working as a freelancer with a lot of different clients (more tha
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white">
   <img src="https://img.shields.io/badge/python-%233670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
+
+
+I'm listen to 
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=21fsagz3pmgmatrv4hqqg2wma&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
