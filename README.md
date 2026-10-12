@@ -5,16 +5,12 @@ Currently, I'm working as a freelancer with a lot of different clients (more tha
 
 ## What I've Built as a Freelance Developer
 
-- **Landing pages** — custom, responsive, conversion-focused
-- **ERP systems** — built from scratch and customized
-- **ARCA integration** — tax/invoicing compliance integrations
-- **ERP integrations** — connecting and syncing multiple ERP platforms
+- **Customized software** - for different clients (lawyers, accountants, salespeople)
 - **RAG systems & AI Agents workflows** — for various clients, tailored to their use cases
 - **Automations** — workflow and process automation with Python, LangGraph and more tools
 - **Payments integration** — payment processing with a **0% error rate**
 - **Scalable, complex architectures** — designed for growth and reliability **(99% uptime)**
 - **Deploys, testing (unit, integration and E2E) and maintenance** - for various client with critical workflows
-. 
 
 
 ## My Skills Include
