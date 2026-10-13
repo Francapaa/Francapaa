@@ -6,7 +6,7 @@ Currently, I'm working as a freelancer with a lot of different clients (more tha
 ## What I've Built as a Freelance Developer
 
 - **Customized software** - for different big clients (lawyers, accountants, salespeople PYMEs)
-- **RAG systems & AI Agents workflows** — for various clients, tailored to their use cases
+- **RAG systems & AI Agents workflows** — for various clients, tailored to their use cases with LangGraph or Vercel WorkFlowAgent
 - **Automations** — workflow and process automation with Python, LangGraph and more tools
 - **Scalable, complex architectures** — designed for growth and reliability **(99% uptime)**
 - **Deploys, testing (unit, integration and E2E) and maintenance** - for various client with critical workflows
