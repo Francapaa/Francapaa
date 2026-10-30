@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Francisco Caparruva</h1>
 I am a 20 y/o software engineer with end-to-end experience designing and building high performance and scalable applications. Furthermore, one of my favorites activities is competitive programming. 
 
-Currently, I'm working as a freelancer with a lot of different clients (more than 15)
+Currently, I'm working as a product engineer(B2C) and freelancer software engineer.
 
 ## What I've Built as a Freelance Developer
 
